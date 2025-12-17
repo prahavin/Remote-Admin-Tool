@@ -1,0 +1,4 @@
+[
+  { "Name": "Test-Laptop", "Host": "Prahavin", "Port": 5900, "Tags": "Home", "Notes": "Prahavin daheim" },
+  { "Name": "Handy", "Host": "192.168.254.4", "Port": 5900, "Tags": "Mobile", "Notes": "Valts Smartphone / DroidVNC" }
+]
